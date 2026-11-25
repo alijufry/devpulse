@@ -1,0 +1,22 @@
+{
+  "name": "devpulse",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A developer focus and productivity workspace built with React, Vite, and Tailwind CSS.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lucide-react": "^0.511.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.7",
+    "@vitejs/plugin-react": "^4.5.0",
+    "vite": "^6.3.5"
+  }
+}
